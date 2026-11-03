@@ -5,4 +5,4 @@
 - Δες τη ζωντανά: [kleisetrapezi.github.io](https://kleisetrapezi.github.io/)
 - Κύριο site και κρατήσεις: [kleisetrapezi.gr](https://kleisetrapezi.gr/) · WhatsApp [694 933 5220](https://wa.me/306949335220)
 
-Static HTML page for Kleise Trapezi, a free table-booking service for Greek nightlife. Main site in English: [kleisetrapezi.gr/en](https://kleisetrapezi.gr/en/)
+Static HTML page by Kleise Trapezi, the Thessaloniki team that reserves tables at Greek venues at no cost to guests. Main site in English: [kleisetrapezi.gr/en](https://kleisetrapezi.gr/en/)
